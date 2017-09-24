@@ -1,0 +1,31 @@
+
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'M') from tables
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'M') from tables
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'M') from tables
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'M') from tables
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:select concat(round(sum(DATA_LENGTH/1024/1024),2),'MB') as data from TABLES where table_schema='blog';
+源数据:为空]

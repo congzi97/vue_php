@@ -1,0 +1,19 @@
+
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p * FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p * FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p * FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p * FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:(token->TOKEN,uid->USER_ID)执行了非法语句
+语句:SELECT r.name,p* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]

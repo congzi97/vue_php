@@ -1,0 +1,10 @@
+
+[用户:(token->6df45ef902862474156d6f3c3b864098,uid->USER_ID)执行了非法语句
+语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:(token->6df45ef902862474156d6f3c3b864098,uid->USER_ID)执行了非法语句
+语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:(token->6df45ef902862474156d6f3c3b864098,uid->USER_ID)执行了非法语句
+语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]

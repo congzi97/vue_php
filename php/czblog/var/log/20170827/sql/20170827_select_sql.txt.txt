@@ -1,0 +1,373 @@
+
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token   
+源数据:]
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:,]
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:,]
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:,]
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:,]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,s]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,s]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,s]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,s]
+[用户:token->,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:,s]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->89565dad649b74776fadf85ee363a6d5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->741f0b37df6850123fb8ebda078f741f,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,]
+[用户:token->0cfbf36678fff2812197c1e12831c9e8,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:0,]
+[用户:token->63169998beb8958c2141077e004e7c5a,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,]
+[用户:token->60d366c267a266a72beb4f0a85ebbf37,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,]
+[用户:token->b45c5c91dc8c96e43cf6a8224cefbf7f,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:b,]
+[用户:token->87914073f152475a60fe7704b4bd1ee7,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->afc6f4b05cbba538ff081d6832dd0a01,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:a,]
+[用户:token->0aa7c9450a0c7ec5735f8ca993bc389c,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:0,]
+[用户:token->32204d595d7ded77fd8a1a61f1862bac,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,]
+[用户:token->9ece7716d319a5eee13efbd686695ac5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:9,]
+[用户:token->23cf789a31d215302143ef581fe8221e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:2,]
+[用户:token->30c55c1c978209572d7918184054cfd1,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,]
+[用户:token->c4994f89a27b172dfb951f3d7d596bb1,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->cbaeb6bfc1f621283f3f22c02ef80a99,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->6742ac6b0480cc2a10e6c0538dd49ae5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,]
+[用户:token->69e2d068583bfabe5e1d17238a475b9e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,]
+[用户:token->8e694ee6b70dbe83203f8b36097e0186,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:8,]
+[用户:token->fd195296d547cbe8ae5b5999ce675b4c,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->7fdc9210902dd5d1e9a7868ca802e643,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,]
+[用户:token->614c474026cdccbd99dd4f2054dff5a0,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,]
+[用户:token->1c2ebf0fcc235d61cf2da236bc32c1ab,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:1,]
+[用户:token->20e0eee611530d0ca4d306bc72feba41,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:2,]
+[用户:token->f4eef4dcaa031ee76d9de345104f5c33,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->00563d9fab6ed5fdd5dd877ce69c2ff4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:0,]
+[用户:token->46d96473826143182ef0259386376147,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:4,]
+[用户:token->7dd2bdcaf6b614215219a1388ad0370b,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,]
+[用户:token->4bee211e46b8589a2104d1e28cbf56bb,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:4,]
+[用户:token->e064087f0eb95b7297e87ce758b6241b,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->b97dab672ff3207e1179f811e41a7b86,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:b,]
+[用户:token->e19c037aa382edb84d2a9c56fc568055,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->51cdf3435da9cc212b03cf39bc6ba5c6,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,]
+[用户:token->54a1459825e629fa4d36d7c489b3c8f6,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,]
+[用户:token->d3c53c894461f23cff0ad292a0da2c7c,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:d,]
+[用户:token->be718a49f0a270402e525e2cafc4bd6a,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:b,]
+[用户:token->df13f92701e6a3eac14f5ca553feb1f2,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:d,]
+[用户:token->3999309265eed7159ad7a13c6f8af83d,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,]
+[用户:token->cedb342db4cc03f576b3360a88d10221,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->5ff61486caa330bcdede2e799ba22a95,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,]
+[用户:token->c498ab36bd3b8d7e901b04338d5a073d,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->985b42a82702e1df05b7e895aaaaa7bd,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:9,]
+[用户:token->cc28830afadb17e8a4b943835394abd0,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->fc6f1a0c7ff1e678f9df8cf3382cfbc5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->281bc3ddaaea871291076bbb78285a32,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:2,]
+[用户:token->21497fff531d4a58fa6486eebb8b9c9c,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:2,]
+[用户:token->e2dbf8bd83db2d981607f15a64f03f4a,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->7b26d24969ffb14df338c9a20f3c0fee,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,]
+[用户:token->439d036c35a8d6d33b261bac991714c3,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:4,]
+[用户:token->e37cb37f73468dafc2525d5fbd37c242,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->dbb702452cde19356a0f0215d508268b,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:d,]
+[用户:token->e0a6debacef9e8951ab7ad3f8ec2209e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->c275a34289202938dc74ecbb9ffc8a83,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:c,]
+[用户:token->0c341af8b5b389e6f03c9456aaaf2637,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:0,]
+[用户:token->4f07a19b44029e8e8ee13d1f6b66d1f4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:4,]
+[用户:token->ece2666eb3f6169730c0f7af7cc1eb07,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:e,]
+[用户:token->d7b83ad1f55ce4629beed9c8e7cacb1d,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:d,]
+[用户:token->376068a93781dda5109dd0c38e088192,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->ffef69e9f398264687eb96ce04e5215e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:f,0]
+[用户:token->780a4382c069a41604a59bc2632a7d91,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,e]
+[用户:token->780a4382c069a41604a59bc2632a7d91,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,e]
+[用户:token->780a4382c069a41604a59bc2632a7d91,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,e]
+[用户:token->780a4382c069a41604a59bc2632a7d91,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,e]
+[用户:token->780a4382c069a41604a59bc2632a7d91,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:7,e]
+[用户:token->6d935a2da7dac72e0cc775d65742c935,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:6,c]
+[用户:token->3a677ee69b3218580016a6a124152ef5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,a]
+[用户:token->3a677ee69b3218580016a6a124152ef5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,a]
+[用户:token->3a677ee69b3218580016a6a124152ef5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,a]
+[用户:token->3a677ee69b3218580016a6a124152ef5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,a]
+[用户:token->3a677ee69b3218580016a6a124152ef5,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:3,a]
+[用户:token->d58a322e4badb11dc2cb696620724d39,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:d,6]
+[用户:token->0c9bdbe6e3beccd0e68b1872a32d9905,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:0,2]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_token`  WHERE `token`=:token and `sid`=:sid   
+源数据:5,9]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user` (`pass`,`myKey`,`signTime`,`di`) VALUES (:pass,:myKey,:signTime,:di)
+源数据:N2IwN3pRNXl3eS9wRzBHcWVkS2EwUzFWbndBTDFRVkNUcTBUNXRjZDRjbTV0VFVJNHhmSjhzVjJjaC9zOEJaR1ZtWG5GTkh6c3NMYTRqOXFMUzh4L09LcmZ5QmxZVG9sY25ZM1p5Q2QyQjM2TUg5Tjh6aXV6alk=,4dee8f7a4a0f0aa88df5df46309c087f,2017-08-27 23:46:28,0]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_avatar` (`member_id`,`url`,`time`,`status`) VALUES (:member_id,:url,:time,:status)
+源数据:1,/avatar.jpg,2017-08-27 23:46:28,0]
+[用户:token->518eb96c9377aa63e37b9693a928e5e4,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_info` (`member_id`,`email`,`bi`,`experience`,`jifen`,`nick`,`sex`,`birthday`,`age`,`city`,`autograph`) VALUES (:member_id,:email,:bi,:experience,:jifen,:nick,:sex,:birthday,:age,:city,:autograph)
+源数据:1,544301197@qq.com,0,0,0,XscgW9_1,男,1898,1,广东深圳,这家伙很懒，什么也没有留下来...]

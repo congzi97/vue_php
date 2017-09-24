@@ -1,0 +1,666 @@
+
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-09-02 00:13:41,1,192.168.1.102,Safari,iPhone]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum_type`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum_type`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum_type`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:0]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT r.id,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_forum_type`    
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH) from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:select sum(DATA_LENGTH)+sum(INDEX_LENGTH) AS size from information_schema.tables
+where table_schema='blog'
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT count(TABLE_NAME) FROM information_schema.TABLES WHERE TABLE_SCHEMA='dbname'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT count(TABLE_NAME) FROM information_schema.TABLES WHERE TABLE_SCHEMA='dbname'
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT count(*) TABLES, table_schema FROM information_schema.TABLES   
+where table_schema = 'blog' GROUP BY table_schema;
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT count(*) TABLES, table_schema FROM information_schema.TABLES   
+where table_schema = 'blog' GROUP BY table_schema;
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT count(*) TABLES, table_schema FROM information_schema.TABLES   
+where table_schema = 'blog' GROUP BY table_schema;
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT * FROM `czphp_user`  WHERE `uid`=:uid   
+源数据:1]
+[用户:token->28639a0e1a4d27ca5494571613c8df37,uid->1
+查询语句:SELECT g.roleID AS adminID,r.name,p.* FROM czphp_user_group as g,czphp_user_power as p,czphp_user_role as r WHERE g.member_id=:uid AND g.roleID=r.id AND g.powerID=p.id 
+源数据:为空]

@@ -1,0 +1,5 @@
+{
+  "require": {
+    "cz/phpProject": "1.0.*"
+  }
+}

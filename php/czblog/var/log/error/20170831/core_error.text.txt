@@ -1,0 +1,66 @@
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('common', 'getConfig')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('common', 'getConfig')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('common', 'getConfig')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('common', 'getConfig')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('common', 'getConfig')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php
+Error:请设置为静态方法
+#0 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(144): run::routeCheck()
+#1 /Users/congzi/Desktop/project/CZBlog/api/main.php(42): run::api('user', 'update')
+#2 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(139): include('/Users/congzi/D...')
+#3 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(80): run::routeUrl()
+#4 /Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php(39): run::getMCF()
+#5 /Users/congzi/Desktop/project/CZBlog/czblog/start.php(33): run::main()
+#6 /Users/congzi/Desktop/project/CZBlog/index.php(34): require_once('/Users/congzi/D...')
+#7 {main}
+异常行号：167
+所在文件：/Users/congzi/Desktop/project/CZBlog/czblog/core/run.class.php

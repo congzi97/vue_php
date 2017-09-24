@@ -1,0 +1,319 @@
+
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]

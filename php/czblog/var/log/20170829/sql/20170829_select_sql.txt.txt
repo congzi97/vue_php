@@ -1,0 +1,529 @@
+
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`    
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`    
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`    
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`    
+源数据:为空]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:5]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->TOKEN,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,1504013360,1,::1,Safari,iPhone]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login_tmp_locking` (`email`,`time`,`locking`,`number`) VALUES (:email,:time,:locking,:number)
+源数据:544301197@qq.com,1504013360,1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 21:52:06,1,::1,Safari,iPhone]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:UPDATE  `czphp_user_login_tmp_locking` SET `time`=:time,`number`=:number  WHERE `email`=:email   
+源数据:544301197@qq.com,2017-08-29 21:52:06,2]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 21:52:10,1,::1,Safari,iPhone]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:UPDATE  `czphp_user_login_tmp_locking` SET `time`=:time,`number`=:number  WHERE `email`=:email   
+源数据:544301197@qq.com,2017-08-29 21:52:10,3]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 21:53:32,1,::1,Safari,iPhone]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:UPDATE  `czphp_user_login_tmp_locking` SET `time`=:time,`number`=:number  WHERE `email`=:email   
+源数据:544301197@qq.com,2017-08-29 21:53:32,4]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 22:00:31,1,::1,Safari,iPhone]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->6df45ef902862474156d6f3c3b864098,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 23:37:18,1,::1,Safari,iPhone]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:UPDATE  `czphp_user_login_tmp_locking` SET `time`=:time,`number`=:number  WHERE `email`=:email   
+源数据:544301197@qq.com,2017-08-29 23:37:18,5]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 23:37:28,1,::1,Safari,iPhone]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->29222e7296fc1b5be41be02b4ec1e97e,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_login_tmp_locking`  WHERE `email`=:email   
+源数据:544301197@qq.com]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT u.pass,u.myKey,u.uid FROM czphp_user_info as info ,czphp_user as u WHERE info.email=:email AND info.member_id=u.uid
+源数据:为空]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_locking`  WHERE `member_id`=:member_id and `status`=:status   
+源数据:1,1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:INSERT INTO  `czphp_user_login` (`email`,`time`,`status`,`ip`,`browser`,`equipmentNick`) VALUES (:email,:time,:status,:ip,:browser,:equipmentNick)
+源数据:544301197@qq.com,2017-08-29 23:50:41,1,::1,Safari,iPhone]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
+[用户:token->70fb11bd564f70e315f0f750c04070d4,uid->USER_ID
+查询语句:SELECT * FROM `czphp_user_info`  WHERE `member_id`=:member_id   
+源数据:1]
